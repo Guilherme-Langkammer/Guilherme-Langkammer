@@ -14,13 +14,17 @@
 
 ###
 
-<p align="left">Redes sociais</p>
+<p align="left">Redes sociais!!</p>
 
 ###
 
 <div align="left">
-  <img src="www.linkedin.com/in/guilherme-de-paula-langkammer-1a64b0344" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://www.instagram.com/guilherme_langkammer?utm_source=qr&igsh=cm40eDdqd3M3ZXBi" width="52" height="40" alt="instagram logo"  />
+  <a href="www.linkedin.com/in/guilherme-de-paula-langkammer-1a64b0344" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/guilherme_langkammer?utm_source=qr&igsh=cm40eDdqd3M3ZXBi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -33,5 +37,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Guilherme-Langkammer/Guilherme-Langkammer/output/snake.svg" alt="Snake animation" />
+
+###t.com/Guilherme-Langkammer/Guilherme-Langkammer/output/snake.svg" alt="Snake animation" />
 
 ###
