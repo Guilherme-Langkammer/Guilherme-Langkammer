@@ -35,9 +35,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Guilherme-Langkammer/Guilherme-Langkammer/output/snake.svg" alt="Snake animation" />
-
-###t.com/Guilherme-Langkammer/Guilherme-Langkammer/output/snake.svg" alt="Snake animation" />
-
-###
