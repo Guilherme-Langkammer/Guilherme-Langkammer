@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Guilherme Langkammer
@@ -44,6 +45,20 @@ I also work with **Oracle Cloud Infrastructure (OCI)** administration at **DB IT
 
 ## Featured Projects
 
+I design and develop software solutions for business operations, customer-facing applications, administrative platforms and systems integration.
+
+The following repositories showcase projects developed within the Valorium Sistemas ecosystem through application screenshots, technical documentation and architectural case studies.
+
+### [Valorium Sistemas — Business Management Platform](https://github.com/Guilherme-Langkammer)
+
+**PHP · JavaScript · HTML · CSS · SQL · Business Management**
+
+A modular business management platform designed to support commercial operations, administrative workflows and business process automation.
+
+The application brings together operational dashboards, product and inventory management, suppliers, orders, financial management, fiscal workflows, system configuration and integrations within a unified administrative environment.
+
+**Engineering focus:** Full Stack Development · Modular Architecture · Business Logic · Database Integration · Financial Workflows · Systems Integration
+
 ### [Valorium Delivery — Full Stack Web Application](https://github.com/Guilherme-Langkammer/valorium-delivery-showcase)
 
 **PHP · JavaScript · HTML · CSS · SQL · Order Management**
@@ -68,11 +83,17 @@ The public engineering showcase documents the application interface, conceptual 
 
 [**Explore Valorium Impressor →**](https://github.com/Guilherme-Langkammer/valorium-impressor-showcase)
 
-### Valorium Sistemas — Business Management Platform
+### Mayumi Confeitaria — Custom E-commerce & Management Platform
 
-A modular business management software initiative focused on administrative workflows, commercial operations, system integration and business process automation.
+**PHP · JavaScript · HTML · CSS · SQL · E-commerce**
 
-**Engineering focus:** Web Development · Modular Architecture · Business Automation · Systems Integration
+A custom web application developed for Mayumi, a confectionery business, combining an elegant customer-facing storefront with an administrative platform for managing commercial operations.
+
+The storefront features a responsive product catalog, category navigation, product presentation, shopping cart and ordering experience.
+
+The administrative interface includes order management, product and inventory workflows, scheduling, financial dashboards, reports, promotions and configurable business settings.
+
+**Engineering focus:** Full Stack Development · Custom Web Applications · E-commerce · Responsive UI · Order Workflows · Administrative Dashboards
 
 > These repositories are public engineering case studies. Proprietary source code, credentials, deployment configurations and customer information remain private. Documentation may include architectural goals and work in progress rather than independently verified production capabilities.
 
