@@ -83,7 +83,8 @@ The public engineering showcase documents the application interface, conceptual 
 
 [**Explore Valorium Impressor →**](https://github.com/Guilherme-Langkammer/valorium-impressor-showcase)
 
-### Mayumi Confeitaria — Custom E-commerce & Management Platform
+
+### [Mayumi Confeitaria — Custom E-commerce & Management Platform](https://github.com/Guilherme-Langkammer/valorium-mayumi-showcase)
 
 **PHP · JavaScript · HTML · CSS · SQL · E-commerce**
 
@@ -94,6 +95,8 @@ The storefront features a responsive product catalog, category navigation, produ
 The administrative interface includes order management, product and inventory workflows, scheduling, financial dashboards, reports, promotions and configurable business settings.
 
 **Engineering focus:** Full Stack Development · Custom Web Applications · E-commerce · Responsive UI · Order Workflows · Administrative Dashboards
+
+[**Explore Mayumi Confeitaria →**](https://github.com/Guilherme-Langkammer/valorium-mayumi-showcase)
 
 > These repositories are public engineering case studies. Proprietary source code, credentials, deployment configurations and customer information remain private. Documentation may include architectural goals and work in progress rather than independently verified production capabilities.
 
