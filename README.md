@@ -42,31 +42,43 @@ I also work with **Oracle Cloud Infrastructure (OCI)** administration at **DB IT
 
 </div>
 
-## Projects
+## Featured Projects
+
+### [Valorium Delivery — Full Stack Web Application](https://github.com/Guilherme-Langkammer/valorium-delivery-showcase)
+
+**PHP · JavaScript · HTML · CSS · SQL · Order Management**
+
+A web-based delivery and order management platform developed within the Valorium software ecosystem. It combines a customer-facing storefront with an administrative interface for managing products, orders and delivery operations.
+
+The public engineering showcase includes real application screenshots, a privacy-safe illustrative dashboard, conceptual architecture diagrams, order workflows and technical documentation.
+
+**Engineering focus:** Full Stack Development · Business Logic · Database Integration · Responsive Interfaces · Order Management
+
+[**Explore Valorium Delivery →**](https://github.com/Guilherme-Langkammer/valorium-delivery-showcase)
+
+### [Valorium Impressor — Windows Print Automation](https://github.com/Guilherme-Langkammer/valorium-impressor-showcase)
+
+**Python · Windows · SQLite · Print Queues · Systems Integration**
+
+A Windows-based printing agent designed to connect web applications with locally installed printers, supporting printer discovery, local configuration and the development of automated print-job workflows.
+
+The public engineering showcase documents the application interface, conceptual architecture, engineering challenges, reliability considerations and integration design.
+
+**Engineering focus:** Python Development · Windows Integration · Automation · Print Queues · Error Handling
+
+[**Explore Valorium Impressor →**](https://github.com/Guilherme-Langkammer/valorium-impressor-showcase)
 
 ### Valorium Sistemas — Business Management Platform
 
-A modular software initiative focused on business management, administrative workflows and commercial operations.
+A modular business management software initiative focused on administrative workflows, commercial operations, system integration and business process automation.
 
-**Focus:** Web development · Modular systems · Business automation
+**Engineering focus:** Web Development · Modular Architecture · Business Automation · Systems Integration
 
-### Valorium Delivery — Order & Delivery Management
-
-A web application project for managing orders, delivery workflows and commercial operations.
-
-**Focus:** PHP · JavaScript · Web applications · SQL
-
-### Valorium Impressor — Windows Printing Integration
-
-A Python-based Windows application project designed to connect web systems with locally installed printers and support print-job workflows.
-
-**Focus:** Python · Windows integration · Print queues · Automation
-
-> These are project summaries. Public repositories, technical case studies and demos will be linked here as they become available. Production source code and customer data are not publicly shared.
+> These repositories are public engineering case studies. Proprietary source code, credentials, deployment configurations and customer information remain private. Documentation may include architectural goals and work in progress rather than independently verified production capabilities.
 
 ## Cloud & Infrastructure
 
-Alongside software development, I have professional experience supporting Oracle Cloud Infrastructure environments, including:
+Alongside software development, I have professional experience supporting **Oracle Cloud Infrastructure (OCI)** environments, including:
 
 - Virtual Cloud Networks (VCNs), subnets and routing
 - Site-to-Site VPNs, IPsec and IKE
@@ -76,7 +88,7 @@ Alongside software development, I have professional experience supporting Oracle
 
 ## Let's Connect
 
-I'm interested in collaborating on software projects and exploring **Backend**, **Full Stack** and **Software Developer** opportunities.
+I'm interested in collaborating on software projects and exploring **Backend Developer**, **Full Stack Developer** and **Software Developer** opportunities in Brazil and internationally.
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-de-paula-langkammer-1a64b0344/)
 - [Email](mailto:guilhermelangkammer008@gmail.com)
