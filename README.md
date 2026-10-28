@@ -1,127 +1,85 @@
-
 <div align="center">
 
-# Guilherme Langkammer
+Guilherme Langkammer
+Software Developer | Full Stack & Backend | Oracle Cloud Infrastructure
+Python · PHP · JavaScript · SQL · Cloud Infrastructure
 
-### Software Developer · Full Stack & Backend
+Building business applications, integrations and automation tools — from software development to cloud infrastructure.
 
-**Python · PHP · JavaScript · SQL · Oracle Cloud Infrastructure**
-
-Building practical software solutions, integrations and automation tools.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-paula-langkammer-1a64b0344/)
-[![Email](https://img.shields.io/badge/Email-Contact-D4A843?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermelangkammer008@gmail.com)
 
 </div>
 
----
+About Me
+I'm a software developer and the founder of Valorium Sistemas, where I build web applications, business management platforms and integration tools. I work across frontend, backend, relational databases and application troubleshooting.
 
-## About Me
+I also work in Oracle Cloud Infrastructure (OCI) administration at DB IT, supporting cloud environments and solving networking, connectivity and infrastructure issues. This combination helps me approach software problems from both the application and infrastructure perspectives.
+- Focus: Backend Development, Full Stack Development, Systems Integration and Automation
+- Education: Software Engineering undergraduate, Faculdade Anhanguera (expected graduation: December 2026)
+- Currently learning: Java and Kotlin
+- Open to: Software development opportunities in Brazil and internationally
+Tech Stack
+Languages & Web Development
 
-I'm a **software developer** and **founder of Valorium Sistemas (2026)**, focused on building web applications, business management solutions, systems integrations and automation tools.
 
-I also work with **Oracle Cloud Infrastructure (OCI)** administration at **DB IT**, bringing cloud networking, infrastructure and troubleshooting experience to my software development work.
 
-- **Main focus:** Full Stack Development, Backend Development and Systems Integration.
-- **Development:** Python, PHP, JavaScript, HTML, CSS and SQL.
-- **Cloud & infrastructure:** OCI, virtual cloud networks, VPN/IPsec, routing, load balancers and network security.
-- **Education:** Software Engineering undergraduate at Faculdade Anhanguera (expected graduation: December 2026).
-- **Currently learning:** Java and Kotlin.
-- **Career interests:** Software development opportunities in Brazil and internationally.
 
-## Tech Stack
 
+Databases & Infrastructure
+
+
+
+
+Featured Engineering Projects
+These repositories present technical case studies of commercial software projects. They focus on architecture, application workflows, engineering decisions and screenshots, while keeping proprietary code and customer data private.
+Valorium Delivery — Ordering & Management Platform
+PHP · JavaScript · SQL · Full Stack Development
+
+A web-based ordering platform combining a customer storefront with administrative workflows for products, orders and delivery operations.
+
+Engineering highlights: business rules, database integration, responsive interfaces, order lifecycle and modular application development.
+
+Explore the case study
+Valorium Impressor — Windows Print Integration
+Python · Windows · SQLite · Automation
+
+A Windows printing agent designed to connect web-based order management systems with locally installed printers. Its documented design covers printer discovery, local configuration and print-job workflows.
+
+Engineering highlights: desktop integration, print queues, error handling and reliability considerations.
+
+Explore the case study
+Mayumi Confeitaria — Custom Commerce Platform
+PHP · JavaScript · SQL · E-commerce
+
+A custom web application for a confectionery business, combining a responsive storefront with product, order, inventory and administrative workflows.
+
+Engineering highlights: tailored business requirements, customer experience, promotions, permissions and application maintenance.
+
+Explore the case study
+Valorium Sistemas — Business Management Ecosystem
+PHP · JavaScript · SQL · Business Applications
+
+A modular ecosystem of business applications designed around operational workflows, administrative management and integrations. Selected components and related projects are documented in the case studies above.
+Repository note: These are engineering showcases, not open-source releases of the commercial applications. Some diagrams describe intended architecture or work in progress; they should not be interpreted as independently verified production capabilities.
+
+Professional Experience
+Founder & Full Stack Developer — Valorium Sistemas
+January 2026 – Present
+- Develop and maintain business-focused web applications and administrative interfaces.
+- Implement application logic, database operations, integrations and UI improvements.
+- Translate operational needs into software features and troubleshoot application issues.
+Oracle Cloud Infrastructure Administrator — DB IT
+May 2022 – Present
+- Support OCI environments, with experience across VCNs, subnets, routing and network security.
+- Troubleshoot VPN/IPsec connectivity, load balancers and cloud infrastructure issues.
+- Work with connectivity and operational support for Oracle Database environments.
+What I'm Working Toward
+I'm expanding my backend engineering skills through practical projects, with a focus on maintainable APIs, automated testing, integration patterns and reliable software delivery.
+Let's Connect
+I'm interested in Backend Developer, Full Stack Developer and Software Developer opportunities, as well as collaboration on software and automation projects.
+- LinkedIn
+- Email
+- GitHub
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
-## Featured Projects
-
-I design and develop software solutions for business operations, customer-facing applications, administrative platforms and systems integration.
-
-The following repositories showcase projects developed within the Valorium Sistemas ecosystem through application screenshots, technical documentation and architectural case studies.
-
-### [Valorium Sistemas — Business Management Platform](https://github.com/Guilherme-Langkammer)
-
-**PHP · JavaScript · HTML · CSS · SQL · Business Management**
-
-A modular business management platform designed to support commercial operations, administrative workflows and business process automation.
-
-The application brings together operational dashboards, product and inventory management, suppliers, orders, financial management, fiscal workflows, system configuration and integrations within a unified administrative environment.
-
-**Engineering focus:** Full Stack Development · Modular Architecture · Business Logic · Database Integration · Financial Workflows · Systems Integration
-
-### [Valorium Delivery — Full Stack Web Application](https://github.com/Guilherme-Langkammer/valorium-delivery-showcase)
-
-**PHP · JavaScript · HTML · CSS · SQL · Order Management**
-
-A web-based delivery and order management platform developed within the Valorium software ecosystem. It combines a customer-facing storefront with an administrative interface for managing products, orders and delivery operations.
-
-The public engineering showcase includes real application screenshots, a privacy-safe illustrative dashboard, conceptual architecture diagrams, order workflows and technical documentation.
-
-**Engineering focus:** Full Stack Development · Business Logic · Database Integration · Responsive Interfaces · Order Management
-
-[**Explore Valorium Delivery →**](https://github.com/Guilherme-Langkammer/valorium-delivery-showcase)
-
-### [Valorium Impressor — Windows Print Automation](https://github.com/Guilherme-Langkammer/valorium-impressor-showcase)
-
-**Python · Windows · SQLite · Print Queues · Systems Integration**
-
-A Windows-based printing agent designed to connect web applications with locally installed printers, supporting printer discovery, local configuration and the development of automated print-job workflows.
-
-The public engineering showcase documents the application interface, conceptual architecture, engineering challenges, reliability considerations and integration design.
-
-**Engineering focus:** Python Development · Windows Integration · Automation · Print Queues · Error Handling
-
-[**Explore Valorium Impressor →**](https://github.com/Guilherme-Langkammer/valorium-impressor-showcase)
-
-
-### [Mayumi Confeitaria — Custom E-commerce & Management Platform](https://github.com/Guilherme-Langkammer/valorium-mayumi-showcase)
-
-**PHP · JavaScript · HTML · CSS · SQL · E-commerce**
-
-A custom web application developed for Mayumi, a confectionery business, combining an elegant customer-facing storefront with an administrative platform for managing commercial operations.
-
-The storefront features a responsive product catalog, category navigation, product presentation, shopping cart and ordering experience.
-
-The administrative interface includes order management, product and inventory workflows, scheduling, financial dashboards, reports, promotions and configurable business settings.
-
-**Engineering focus:** Full Stack Development · Custom Web Applications · E-commerce · Responsive UI · Order Workflows · Administrative Dashboards
-
-[**Explore Mayumi Confeitaria →**](https://github.com/Guilherme-Langkammer/valorium-mayumi-showcase)
-
-> These repositories are public engineering case studies. Proprietary source code, credentials, deployment configurations and customer information remain private. Documentation may include architectural goals and work in progress rather than independently verified production capabilities.
-
-## Cloud & Infrastructure
-
-Alongside software development, I have professional experience supporting **Oracle Cloud Infrastructure (OCI)** environments, including:
-
-- Virtual Cloud Networks (VCNs), subnets and routing
-- Site-to-Site VPNs, IPsec and IKE
-- Network Security Groups (NSGs) and security lists
-- Load balancers, connectivity and troubleshooting
-- Oracle Database environments
-
-## Let's Connect
-
-I'm interested in collaborating on software projects and exploring **Backend Developer**, **Full Stack Developer** and **Software Developer** opportunities in Brazil and internationally.
-
-- [LinkedIn](https://www.linkedin.com/in/guilherme-de-paula-langkammer-1a64b0344/)
-- [Email](mailto:guilhermelangkammer008@gmail.com)
-- [GitHub](https://github.com/Guilherme-Langkammer)
-
-<div align="center">
-
----
 
 <sub>Build · Integrate · Automate · Improve</sub>
-
 </div>
