@@ -54,44 +54,33 @@ I also work as an **Oracle Cloud Infrastructure (OCI) Administrator at DB IT**, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-## Featured Backend Project
-
-### Valorium Orders API — Python, FastAPI & Backend Engineering
-
-A public REST API project demonstrating **backend development, authentication, database migrations, automated testing, and containerized execution**.
-
-**Tech Stack:** Python · FastAPI · SQLAlchemy · Alembic · SQLite · JWT · Pytest · Docker · GitHub Actions
-
-**Engineering Highlights**
-
-- RESTful endpoints for order creation, listing, retrieval, and status updates.
-- JWT authentication and role-based authorization.
-- Database schema migrations managed with Alembic.
-- Automated tests covering order workflows, authentication, and security.
-- Docker Compose configuration with persistent database storage.
-- GitHub Actions pipelines for Python tests, database migrations, and Docker integration checks.
-
-**Verified results:** 29 automated tests passing locally, with successful Backend CI and Docker CI runs for the published version.
-
-[**Explore Source Code & Documentation**](https://github.com/Guilherme-Langkammer/valorium-orders-api)
-
-[Backend CI](https://github.com/Guilherme-Langkammer/valorium-orders-api/actions/workflows/tests.yml) · [Docker CI](https://github.com/Guilherme-Langkammer/valorium-orders-api/actions/workflows/docker.yml)
-
-*Independent portfolio project. Not a public release of the proprietary Valorium Sistemas platform.*
-
----
-
 ## Featured Engineering Projects
 
 Real-world commercial software projects documented through **technical case studies**, architecture, workflows and application screenshots. The underlying proprietary code and customer data are not publicly shared.
 
 | Project | What I built | Engineering focus |
 | --- | --- | --- |
+| **[Valorium Orders API](https://github.com/Guilherme-Langkammer/valorium-orders-api)** | Public REST API with authentication, order management, database migrations and automated tests | Python · FastAPI · SQLAlchemy · JWT · Docker · CI/CD |
 | **[Valorium Delivery](https://github.com/Guilherme-Langkammer/valorium-delivery-showcase)** | Online ordering storefront and business operations dashboard | PHP · JavaScript · SQL · Order workflows |
 | **[Valorium Impressor](https://github.com/Guilherme-Langkammer/valorium-impressor-showcase)** | Windows printing integration agent for web-based orders | Python · Windows · SQLite · Print queues |
 | **[Mayumi Confeitaria](https://github.com/Guilherme-Langkammer/valorium-mayumi-showcase)** | Custom confectionery storefront and administration platform | PHP · JavaScript · SQL · Commerce UX |
 | **[Valorium Sistemas](https://github.com/Guilherme-Langkammer/valorium-sistemas-showcase)** | Modular business management ecosystem | Full Stack · Business logic · Integrations |
 
+### Valorium Orders API
+
+**Backend Engineering · Python · FastAPI · SQLAlchemy · JWT · Docker**
+
+Public backend portfolio project featuring RESTful order management, authentication, database migrations, automated tests and GitHub Actions CI.
+
+**Verified:** 29 automated tests passing locally, with successful Backend CI and Docker CI runs.
+
+[Explore source code and documentation](https://github.com/Guilherme-Langkammer/valorium-orders-api) · [Backend CI](https://github.com/Guilherme-Langkammer/valorium-orders-api/actions/workflows/tests.yml) · [Docker CI](https://github.com/Guilherme-Langkammer/valorium-orders-api/actions/workflows/docker.yml)
+
+<a href="https://github.com/Guilherme-Langkammer/valorium-orders-api"><img src="assets/valorium-orders-api.png" alt="Valorium Orders API FastAPI Swagger documentation showing Health, Orders and Authentication endpoints" width="100%"></a>
+
+*Independent public portfolio project; proprietary Valorium Sistemas source code is not included.*
+
+---
 ### Valorium Delivery
 
 A web-based ordering experience connected to administrative workflows for products, orders and delivery operations. **Key challenges:** application modularity, database integration, order lifecycle and responsive interfaces.
