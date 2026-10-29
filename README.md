@@ -56,7 +56,7 @@ I also work as an **Oracle Cloud Infrastructure (OCI) Administrator at DB IT**, 
 
 ## Featured Engineering Projects
 
-Real-world commercial software projects documented through **technical case studies**, architecture, workflows and application screenshots. The underlying proprietary code and customer data are not publicly shared.
+A selection of public backend engineering projects and real-world commercial software case studies, featuring system architecture, workflows, integrations, and application screenshots. Public projects include source code and documentation; proprietary commercial implementations are presented without exposing private code or customer data.
 
 | Project | What I built | Engineering focus |
 | --- | --- | --- |
