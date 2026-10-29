@@ -54,6 +54,33 @@ I also work as an **Oracle Cloud Infrastructure (OCI) Administrator at DB IT**, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
+## Featured Backend Project
+
+### Valorium Orders API — Python, FastAPI & Backend Engineering
+
+A public REST API project demonstrating **backend development, authentication, database migrations, automated testing, and containerized execution**.
+
+**Tech Stack:** Python · FastAPI · SQLAlchemy · Alembic · SQLite · JWT · Pytest · Docker · GitHub Actions
+
+**Engineering Highlights**
+
+- RESTful endpoints for order creation, listing, retrieval, and status updates.
+- JWT authentication and role-based authorization.
+- Database schema migrations managed with Alembic.
+- Automated tests covering order workflows, authentication, and security.
+- Docker Compose configuration with persistent database storage.
+- GitHub Actions pipelines for Python tests, database migrations, and Docker integration checks.
+
+**Verified results:** 29 automated tests passing locally, with successful Backend CI and Docker CI runs for the published version.
+
+[**Explore Source Code & Documentation**](https://github.com/Guilherme-Langkammer/valorium-orders-api)
+
+[Backend CI](https://github.com/Guilherme-Langkammer/valorium-orders-api/actions/workflows/tests.yml) · [Docker CI](https://github.com/Guilherme-Langkammer/valorium-orders-api/actions/workflows/docker.yml)
+
+*Independent portfolio project. Not a public release of the proprietary Valorium Sistemas platform.*
+
+---
+
 ## Featured Engineering Projects
 
 Real-world commercial software projects documented through **technical case studies**, architecture, workflows and application screenshots. The underlying proprietary code and customer data are not publicly shared.
