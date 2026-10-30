@@ -29,7 +29,7 @@ I also work as an **Oracle Cloud Infrastructure (OCI) Administrator at DB IT**, 
 
 | Role | Organization | Period |
 | --- | --- | --- |
-| **Founder & Full Stack Developer** | **Valorium Sistemas** | Jan 2026 – Present |
+| **Founder & Full Stack Developer** | **Valorium Sistemas** | Jan 2024 – Present |
 | **Oracle Cloud Infrastructure Administrator** | **DB IT** | May 2022 – Present |
 
 **Valorium Sistemas:** Develop customer-facing web applications and administrative systems; implement business rules, database operations, integrations, and user experience improvements.
